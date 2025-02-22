@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TruthAndDare</string>
+    <string name="generate_truth_amp_dare"><![CDATA[Generate Truth & Dare]]></string>
+    <string name="press_the_button_to_start">Press the button to start!</string>
 </resources>

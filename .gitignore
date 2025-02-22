@@ -1,0 +1,70 @@
+# Gradle
+*.gradle
+*.gradle.kts
+.gradle
+/build/
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+*.iws
+
+# Local configuration
+/local.properties
+
+# Dependency caches
+/.cxx/
+/.gradle/
+/captures/
+
+# Generated files
+/build/
+/app/build/
+*/build/
+
+# Keystore files (security-sensitive, do not commit)
+*.jks
+*.keystore
+
+# Proguard and Log files
+*.log
+proguard/
+
+# NDK
+obj/
+*.so
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.swp
+
+# Crashlytics / Firebase
+crashlytics/
+/fabric/
+
+# Kotlin specific
+*.kotlin_module
+
+# Jetpack Compose
+.compose/
+
+# Testing
+/test-results/
+/test-output/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Logs
+logs/
+*.log
